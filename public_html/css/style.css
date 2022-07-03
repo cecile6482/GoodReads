@@ -1,3 +1,31 @@
 body {
     background-color: #a795c4;
+    margin: 15px;
+    padding: 15px;
 }
+
+p {
+    font-size: 1em;
+    color: #fff;
+}
+
+form {
+    border: #fff 1px solid;
+    padding: 15px;
+
+}
+
+h1 {
+    font-size: 1.5em;
+    color: rgb(113, 248, 3);
+}
+
+a {
+    color: rgb(78, 4, 4);
+    text-decoration: none;
+    border: rgb(166, 6, 6) 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(242, 162, 162);
+}
+
